@@ -1,5 +1,6 @@
 # Public Requirements
 /Content/*
+!/Content/FirstPerson/
 !/Content/FirstPersonBP/
 !/Content/Expyer/
 !/Content/ExpyerDrafted/
