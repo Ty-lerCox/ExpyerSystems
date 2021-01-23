@@ -1,4 +1,12 @@
-wooden_town
-ShipsAndRocks
-Harbour_pack
-Furry_S3
+Asset Packs:
+    wooden_town
+    ShipsAndRocks
+    Harbour_pack
+    Furry_S3
+
+Mega Scans:
+    MegascansMeadowPack
+    MS_StoneFloor
+    MSPresets
+    MS_SandsEss
+    MegascansMeadowPack
