@@ -10,3 +10,5 @@ Mega Scans:
     MSPresets
     MS_SandsEss
     MegascansMeadowPack
+    MS_FantasyFortV1
+    MS_FantasyFortV2
